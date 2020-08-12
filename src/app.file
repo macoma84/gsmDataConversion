@@ -1,0 +1,2 @@
+serviceURL=http://localhost:8080/ApplicationInitializer/ws/CaptureGSMService?wsdl
+fileLocation=C:\eclipse\actinver\gsmDataConversion\gsmDataConversion\resources
